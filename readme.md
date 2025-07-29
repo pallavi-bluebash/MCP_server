@@ -105,7 +105,3 @@ Now, dive in and experience the seamless registration process:
     `Show all registrations`
     `List all users`
     Your AI assistant will fetch and display all registered users in a clear, interactive table.
-
----
-
-Enjoy the power of AI-driven registration, crafted with care by Pallavi!
