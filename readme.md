@@ -95,8 +95,7 @@ Now, dive in and experience the seamless registration process:
 * **To Register a New User:**
     Type or select from examples:
     `Register John Doe with email john.doe@example.com and DOB 1990-05-15`
-    *(Try registering yourself using the pre-filled example for Pallavi Sharma!)*
-
+   
 * **Test Duplicate Prevention:**
     Attempt to register the same user (with the exact same email) again. Watch for the friendly warning that prevents duplicates!
 
