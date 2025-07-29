@@ -1,4 +1,4 @@
-# 🤖 **Seamless Sign-ups by Pallavi (AI-Driven) **
+# 🤖 **Seamless Sign-ups by Pallavi (AI-Driven)**
 
 Welcome to the future of user registration! This isn't just another form; it's a dynamic, AI-powered assistant designed by Pallavi to streamline how you manage user sign-ups. Built with the cutting-edge **Google Gemini 2.0 Flash** and a custom **Model Calling Protocol (MCP) server**, this project brings intelligent automation right to your fingertips.
 
@@ -6,7 +6,7 @@ Forget manual data entry and duplicate headaches. With Pallavi's AI Registration
 
 ---
 
-## ✨ **What Makes This Shine?**
+## ✨ **What Makes This Hub Shine?**
 
 * **Intelligent Conversational Interface:** Powered by Gemini 2.0 Flash, understand and respond to natural language commands for registration and data retrieval.
 * **Local & Secure Data Management:** All user details (Name, Email, DOB) are safely stored in a local `registration.csv` file, giving you full control.
@@ -20,7 +20,7 @@ Forget manual data entry and duplicate headaches. With Pallavi's AI Registration
 
 ---
 
-## **Under the Hood: The Architecture**
+## 🛠**Under the Hood: The Architecture**
 
 This project seamlessly integrates a Streamlit frontend with a custom Python backend (the MCP server) acting as a bridge to your local CSV database.
 
@@ -36,11 +36,12 @@ your_mcp_assignment/
 ├── registration.csv       # Your user database (CSV format)
 ├── requirements.txt       # All the Python magic you need to install
 ├── README.md              # (You're reading it!) Project guide
-├── pyproject.toml         # Project metadata
-              
+└── pyproject.toml         # Project metadatas
+
+
 ---
 
-## **Get Started in a Flash!**
+## 🚀 **Get Started in a Flash!**
 
 Follow these simple steps to bring Pallavi's AI Registration Hub to life on your machine:
 
@@ -88,7 +89,7 @@ Follow these simple steps to bring Pallavi's AI Registration Hub to life on your
 
 ---
 
-## **Interact with Your AI Assistant!**
+## 💬 **Interact with Your AI Assistant!**
 
 Now, dive in and experience the seamless registration process:
 
