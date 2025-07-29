@@ -13,7 +13,7 @@ Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pa
 * **No More Duplicates!** Our smart backend ensures that each user's email is unique, preventing redundant entries with a clear "already registered" alert.
 * **Instant Data Insights:** Ask for all registered users, and watch as your data magically appears in a beautifully formatted, interactive table, complete with serial numbers.
 * **Sleek & User-Friendly Design:**
-    * **Customized Title:** "🤖 Seamless Sign-ups by Pallavi (AI-Driven) 🚀" – bold, blue, and brimming with personality!
+    * **Customized Title:** "🤖 Seamless Sign-ups by Pallavi (AI-Driven) " – bold, blue, and brimming with personality!
     * **Vibrant UI:** A refreshing color palette and modern styling for inputs, buttons (now green!), and alert messages, making every interaction a delight.
     * **Guided Examples:** A handy dropdown offers quick prompts to get you started, from registering new users to listing existing ones.
     * **Clear Feedback:** Intuitive success, warning, and info messages keep you informed every step of the way.
