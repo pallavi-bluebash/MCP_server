@@ -6,7 +6,7 @@ Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pa
 
 ---
 
-## ✨ **What Makes This Hub Shine?**
+## ✨ **What Makes This Shine?**
 
 * **Intelligent Conversational Interface:** Powered by Gemini 2.0 Flash, understand and respond to natural language commands for registration and data retrieval.
 * **Local & Secure Data Management:** All user details (Name, Email, DOB) are safely stored in a local `registration.csv` file, giving you full control.
