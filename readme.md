@@ -2,7 +2,7 @@
 
 Welcome to the future of user registration! This isn't just another form; it's a dynamic, AI-powered assistant designed by Pallavi to streamline how you manage user sign-ups. Built with the cutting-edge **Google Gemini 2.0 Flash** and a custom **Model Calling Protocol (MCP) server**, this project brings intelligent automation right to your fingertips.
 
-Forget manual data entry and duplicate headaches. With Pallavi's AI Registration Hub, you simply tell the system what you need, and it intelligently handles the rest – from registering new users to instantly fetching your entire database.
+Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pallavi (AI-Driven)**, you simply tell the system what you need, and it intelligently handles the rest – from registering new users to instantly fetching your entire database.
 
 ---
 
@@ -20,7 +20,7 @@ Forget manual data entry and duplicate headaches. With Pallavi's AI Registration
 
 ---
 
-## 🛠**Under the Hood: The Architecture**
+## 🛠️ **Under the Hood: The Architecture**
 
 This project seamlessly integrates a Streamlit frontend with a custom Python backend (the MCP server) acting as a bridge to your local CSV database.
 
@@ -36,14 +36,13 @@ your_mcp_assignment/
 ├── registration.csv       # Your user database (CSV format)
 ├── requirements.txt       # All the Python magic you need to install
 ├── README.md              # (You're reading it!) Project guide
-└── pyproject.toml         # Project metadatas
-
+├── pyproject.toml         # Project metadata
 
 ---
 
 ## 🚀 **Get Started in a Flash!**
 
-Follow these simple steps to bring Pallavi's AI Registration Hub to life on your machine:
+Follow these simple steps to bring **Seamless Sign-ups by Pallavi (AI-Driven)** to life on your machine:
 
 1.  **Set Up Your Project Space:**
     * Create a main directory (e.g., `my_ai_registration_app`).
@@ -85,7 +84,7 @@ Follow these simple steps to bring Pallavi's AI Registration Hub to life on your
         ```bash
         streamlit run llm.py
         ```
-    * Your default web browser will automatically open the beautiful AI Registration Hub!
+    * Your default web browser will automatically open the beautiful **Seamless Sign-ups by Pallavi (AI-Driven)**!
 
 ---
 
