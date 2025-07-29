@@ -6,7 +6,7 @@ Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pa
 
 ---
 
-## ✨ **What Makes This Shine?**
+## **What Makes This Shine?**
 
 * **Intelligent Conversational Interface:** Powered by Gemini 2.0 Flash, understand and respond to natural language commands for registration and data retrieval.
 * **Local & Secure Data Management:** All user details (Name, Email, DOB) are safely stored in a local `registration.csv` file, giving you full control.
@@ -20,7 +20,7 @@ Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pa
 
 ---
 
-## 🛠️ **Under the Hood: The Architecture**
+## **Under the Hood: The Architecture**
 
 This project seamlessly integrates a Streamlit frontend with a custom Python backend (the MCP server) acting as a bridge to your local CSV database.
 
@@ -40,7 +40,7 @@ your_mcp_assignment/
 
 ---
 
-## 🚀 **Get Started in a Flash!**
+## **Get Started in a Flash!**
 
 Follow these simple steps to bring **Seamless Sign-ups by Pallavi (AI-Driven)** to life on your machine:
 
@@ -88,7 +88,7 @@ Follow these simple steps to bring **Seamless Sign-ups by Pallavi (AI-Driven)** 
 
 ---
 
-## 💬 **Interact with Your AI Assistant!**
+## **Interact with Your AI Assistant!**
 
 Now, dive in and experience the seamless registration process:
 
