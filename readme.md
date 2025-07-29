@@ -1,6 +1,6 @@
 # 🤖 **Seamless Sign-ups by Pallavi (AI-Driven)**
 
-Welcome to the future of user registration! This isn't just another form; it's a dynamic, AI-powered assistant designed by Pallavi to streamline how you manage user sign-ups. Built with the cutting-edge **Google Gemini 2.0 Flash** and a custom **Model Calling Protocol (MCP) server**, this project brings intelligent automation right to your fingertips.
+Welcome to the future of user registration! This isn't just another form; it's a dynamic, AI-powered assistant designed by Pallavi to streamline how you manage user sign-ups. Built with the cutting-edge **Google Gemini 2.0 Flash** and a custom **MCP server**, this project brings intelligent automation right to your fingertips.
 
 Forget manual data entry and duplicate headaches. With **Seamless Sign-ups by Pallavi (AI-Driven)**, you simply tell the system what you need, and it intelligently handles the rest – from registering new users to instantly fetching your entire database.
 
